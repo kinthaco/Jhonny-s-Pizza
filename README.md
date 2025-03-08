@@ -5,23 +5,23 @@ This project transforms the intuition-based decision-making process of a restaur
 
 **Process**: By replacing intuition-based decisions with actionable insights, the restaurant can streamline staffing, marketing, inventory, and customer experience management.
 **1. Dashboarding**:
-==Overall snapshot, Customer analytics, Area-wise sales, Manpower and sales giving insights into different aspects of the business==
+Overall snapshot, Customer analytics, Area-wise sales, Manpower and sales giving insights into different aspects of the business
 **2. Customer Segmentation Model**:
-==K-Means Clustering coupled with RFM analysis - personalizing marketing and retention strategies==
+K-Means Clustering coupled with RFM analysis - personalizing marketing and retention strategies
 **3. Combo Recommendation Model**:
-==Apriori - Creating rules to make
-frequently purchased item combinations as combos to boost sales==
+Apriori - Creating rules to make
+frequently purchased item combinations as combos to boost sales
 
 **Results**: The results are intended to provide a framework to the stakeholders rather than specific analysis of values:
 **1.Snapshot Dashboard**:
-==Tracks key sales metrics (Month-to-Date, Year-to-Date) to identify trends and improve decision-making for profitability.==
+Tracks key sales metrics (Month-to-Date, Year-to-Date) to identify trends and improve decision-making for profitability.
 **2. Manpower Dashboard**:
-==Evaluates employee performance (Sales per Hour, Average Bill per Employee) - optimizing staffing and boost productivity.==
-**3. Area-Wise Sales Dashboard**: ==Analyzes sales and tips by area - optimizing seating and resource.==
+Evaluates employee performance (Sales per Hour, Average Bill per Employee) - optimizing staffing and boost productivity.
+**3. Area-Wise Sales Dashboard**: Analyzes sales and tips by area - optimizing seating and resource.
 **4.Customer Dashboard**:
-==Reveals customer spending, preferences, and peak times -personalizing experiences.==
+Reveals customer spending, preferences, and peak times -personalizing experiences.
 **5. RFM Analysis dashboard**:
-==Four segments of customers - 40% of the customers being moderately frequent and very recent - huge potential retention strategies==
+Four segments of customers - 40% of the customers being moderately frequent and very recent - huge potential retention strategies
 **6.Created 3 combo meals**:
-==backed by a strong association algorithm==
+backed by a strong association algorithm
 
