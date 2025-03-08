@@ -5,10 +5,14 @@ This project transforms the intuition-based decision-making process of a restaur
 
 As a business grows, it evolves beyond daily operations and starts leveraging data to drive strategic initiatives, optimize performance, and uncover new growth opportunities. The goal is to turn intuition-based choices into data-driven strategies that help optimize areas like staffing, customer experience, marketing, and inventory management, ultimately supporting sustainable growth and profitability for the restaurant.
 
-**Process**: \nBy replacing intuition-based decisions with actionable insights, the restaurant can streamline staffing, marketing, inventory, and customer experience management.
-\n**1. Dashboarding**:
-\nOverall snapshot, Customer analytics, Area-wise sales, Manpower and sales giving insights into different aspects of the business
-\n**2. Customer Segmentation Model**:
+**Process**: 
+
+By replacing intuition-based decisions with actionable insights, the restaurant can streamline staffing, marketing, inventory, and customer experience management.
+**1. Dashboarding**:
+
+
+Overall snapshot, Customer analytics, Area-wise sales, Manpower and sales giving insights into different aspects of the business
+**2. Customer Segmentation Model**:
 \nK-Means Clustering coupled with RFM analysis - personalizing marketing and retention strategies
 \n**3. Combo Recommendation Model**:
 \nApriori - Creating rules to make frequently purchased item combinations as combos to boost sales
