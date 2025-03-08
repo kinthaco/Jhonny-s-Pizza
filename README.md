@@ -22,7 +22,8 @@ K-Means Clustering coupled with RFM analysis - personalizing marketing and reten
 Apriori - Creating rules to make frequently purchased item combinations as combos to boost sales
 
 
-# **Results**: The results are intended to provide a framework to the stakeholders rather than specific analysis of values:
+# **Results**: 
+The results are intended to provide a framework to the stakeholders rather than specific analysis of values:
 
 **1.Snapshot Dashboard**:
 Tracks key sales metrics (Month-to-Date, Year-to-Date) to identify trends and improve decision-making for profitability.
