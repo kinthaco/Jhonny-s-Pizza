@@ -18,14 +18,18 @@ Overall snapshot, Customer analytics, Area-wise sales, Manpower and sales giving
 **2. Customer Segmentation Model**:
 
 K-Means Clustering coupled with RFM analysis - personalizing marketing and retention strategies
-\n**3. Combo Recommendation Model**:
-\nApriori - Creating rules to make frequently purchased item combinations as combos to boost sales
+
+**3. Combo Recommendation Model**:
+
+Apriori - Creating rules to make frequently purchased item combinations as combos to boost sales
 
 **Results**: The results are intended to provide a framework to the stakeholders rather than specific analysis of values:
-\n**1.Snapshot Dashboard**:
-\nTracks key sales metrics (Month-to-Date, Year-to-Date) to identify trends and improve decision-making for profitability.
-\n**2. Manpower Dashboard**:
-\nEvaluates employee performance (Sales per Hour, Average Bill per Employee) - optimizing staffing and boost productivity.
+
+**1.Snapshot Dashboard**:
+Tracks key sales metrics (Month-to-Date, Year-to-Date) to identify trends and improve decision-making for profitability.
+
+**2. Manpower Dashboard**:
+<p>Evaluates employee performance (Sales per Hour, Average Bill per Employee) - optimizing staffing and boost productivity.<\p>
 \n**3. Area-Wise Sales Dashboard**: \nAnalyzes sales and tips by area - optimizing seating and resource.
 \n**4.Customer Dashboard**:
 \nReveals customer spending, preferences, and peak times -personalizing experiences.
