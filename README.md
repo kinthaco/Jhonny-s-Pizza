@@ -1,7 +1,9 @@
 # Jhonny-s-Pizza
 This project transforms the intuition-based decision-making process of a restaurant into a data-driven approach to support their scaling journey.
 
-**Goal**: \nAs a business grows, it evolves beyond daily operations and starts leveraging data to drive strategic initiatives, optimize performance, and uncover new growth opportunities. The goal is to turn intuition-based choices into data-driven strategies that help optimize areas like staffing, customer experience, marketing, and inventory management, ultimately supporting sustainable growth and profitability for the restaurant.
+**Goal**: 
+
+As a business grows, it evolves beyond daily operations and starts leveraging data to drive strategic initiatives, optimize performance, and uncover new growth opportunities. The goal is to turn intuition-based choices into data-driven strategies that help optimize areas like staffing, customer experience, marketing, and inventory management, ultimately supporting sustainable growth and profitability for the restaurant.
 
 **Process**: \nBy replacing intuition-based decisions with actionable insights, the restaurant can streamline staffing, marketing, inventory, and customer experience management.
 \n**1. Dashboarding**:
